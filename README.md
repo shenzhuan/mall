@@ -24,21 +24,26 @@
 
 ### 项目演示
 
+### 项目演示
+
 > 后台管理系统
 
-前端项目`mall-admin-web`地址：https://github.com/macrozheng/mall-admin-web 
+小程序下载 地址 https://gitee.com/catshen/mall-applet
+后台管理下载地址 https://gitee.com/zscat/mall
 
-项目演示地址： [www.macro.com/mall-admin/index.html](http://39.98.69.210/index.html)  
+ **- 多租户版本** 
+[多租户版本 !](https://gitee.com/zscat/mallplus) 
+
   
-![后台管理系统功能演示.gif](https://github.com/macrozheng/mall/blob/master/document/resource/mall-admin.gif)
+![后台管理系统功能演示.gif](/document/resource/mall-admin.gif)
 
-> 前台商城系统
-
-前端项目`mall-app-web`地址：敬请期待......
-
-项目演示地址：[http://39.98.69.210/mall-app/mainpage.html](http://39.98.69.210/mall-app/mainpage.html)
-
-![前台商城系统功能演示.gif](https://github.com/macrozheng/mall/blob/master/document/resource/mall-app.gif)
+>   发布页面 http://m3w.cn/mallcloud  
+>   h5地址  http://www.yjlive.cn:8082/#/ 
+>  后台管理地址 http://www.yjlive.cn:8090 
+>  小程序体验码
+>  ![输入图片说明](https://images.gitee.com/uploads/images/2019/0621/100856_b901ecef_134431.png "屏幕截图.png")
+>  app体验 加群下载
+>  apk下载 链接: https://pan.baidu.com/s/1UiFtg3AQ2-muNjfQjsjXPw 提取码: nda2
 
 ### 组织结构
 
@@ -49,6 +54,21 @@ mall
 ├── mall-search -- 基于Elasticsearch的商品搜索系统
 ├── mall-portal -- 前台商城系统接口
 └── mall-demo -- 框架搭建时的测试代码
+├── 前端项目`mall-admin-web`  地址 捐 300 可以获取其他前端页面 
+├── h5前端项目`vue-js-master`地址 请加群下载  
+├── pc前端项目`Mall-Vue-master`地址 请加群下载  
+├── 小前端项目`wechatapp`地址 请加群下载
+```
+
+ **_uniapp_** 
+
+uni-app 是一个使用 Vue.js 开发跨平台应用的前端框架，开发者编写一套代码，可编译到iOS、Android、H5、小程序等多个平台。
+
+<img src="https://images.gitee.com/uploads/images/2019/0528/141610_0b812292_134431.jpeg"/>
+
+
+关注公众号
+<img src="https://images.gitee.com/uploads/images/2019/0519/174631_65c2a4e8_134431.png" width="80px" height="80px" />
 ```
 
 ### 技术选型
